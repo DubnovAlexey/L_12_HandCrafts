@@ -14,7 +14,7 @@ body {
 }
 
 .jumbotron h1 {
-    font-size: 5em;
+    font-size: clamp(2.5rem, 13vw, 5em); /* 5em на компьютере, меньше на телефоне — заголовок не вылезает за экран */
 }
 
 .jumbotron a {
