@@ -15,18 +15,18 @@
 	<div class = "row align-items-sm-center">
 		<h2 class = "col-sm-4 fw-bold">Group 66</h2>
 		<nav class = "row col-sm-8">
-			<p class = "col-sm-2 offset-sm-6">newest</p>
-			<p class = "col-sm-2">catalog</p>
-			<p class = "col-sm-2">contact</p>
+			<a class="col-sm-2 offset-sm-6" href="#newest">newest</a>
+			<a class="col-sm-2" href="#catalog">catalog</a>
+			<a class="col-sm-2" href="#contact">contact</a>
 		</nav>
 	</div>
 </header>
-<section class = "container-fluid jumbotron text-center d-flex flex-column align-items-center justify-content-center">
+<section id="newest" class = "container-fluid jumbotron text-center d-flex flex-column align-items-center justify-content-center">
 	<h1>HandCrafts</h1>
 	<h2>This year best</h2>
-	<a class = "btn btn-primary" href = "#">See all</a>
+	<a class = "btn btn-primary" href = "#catalog">See all</a>
 </section>
-<section class = "container text-center">
+<section id="catalog" class = "container text-center" aria-label="Craft categories">
 	<div class = "row">
 		<figure class = "col-sm-6">
 			<h3>Kitchen</h3>
@@ -47,7 +47,7 @@
 		
 	</div>
 </section>
-<footer class="container">
+<footer id="contact" class="container">
 	<div class="row">
 		<h4 class="col-sm-4">&copy; Group 66</h4>
 		<ul class="row col-sm-8 list-unstyled">

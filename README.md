@@ -12,6 +12,8 @@ A landing page for a handmade-goods shop built with the Bootstrap grid: a header
 - A full-width hero with a background image and a fluid heading size (`clamp`).
 - Images scale with the column (`w-100`).
 
+- Menu links and "See all" navigate to the existing page sections.
+
 ## Tech stack
 
 HTML5 · CSS3 · Bootstrap 5 · GitHub Pages
@@ -22,5 +24,4 @@ Open `index.html` in a browser.
 
 ## Roadmap
 
-- Working links in the menu and on the "See all" button.
 - A catalog page and a contact form.

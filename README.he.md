@@ -16,4 +16,6 @@ HTML5 · CSS3 · Bootstrap 5 · GitHub Pages
 
 פתחו את `index.html` בדפדפן.
 
+קישורי התפריט ו-See all עוברים לחלקים הקיימים בדף.
+
 </div>
