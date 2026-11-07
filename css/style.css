@@ -27,3 +27,15 @@ body {
 К следующему четвергу по желанию сделать с использованием бутстрапа и всех изученных технологий  страничку про хобби и
 показать ее коллегам на уроке с кратким пояснением (10-15 минут)
  */
+
+/* Source code link next to the footer copyright */
+.repo-link {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.repo-link:hover,
+.repo-link:focus-visible {
+    opacity: 0.75;
+}
