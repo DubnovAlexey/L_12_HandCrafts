@@ -38,7 +38,7 @@ This is a presentation landing page, not an operating shop: categories are examp
 
 Proposals below are planned work, not existing features.
 
-- Visual: standardize category image crops and spacing; create a simple HandCrafts monogram favicon.
+- Visual: standardize category image crops and spacing.
 - Engineering: add a main landmark, pin local Bootstrap assets and check section anchors automatically.
 - Features: populate a small JSON catalog with category filters and product details; configure a real contact destination separately.
 
@@ -80,7 +80,7 @@ HTML5 · CSS3 · Bootstrap 5 · GitHub Pages
 
 Ниже перечислены предложения, а не уже реализованные функции.
 
-- Визуал: единое кадрирование карточек и отступы; простой favicon-монограмма HandCrafts.
+- Визуал: единое кадрирование карточек и отступы.
 - Инженерия: основной landmark main, локальные ресурсы Bootstrap и автоматическая проверка якорей разделов.
 - Функции: небольшой JSON-каталог с фильтрами категорий и карточкой изделия; реальный контакт подключать отдельно.
 
@@ -118,7 +118,7 @@ HTML5 · CSS3 · Bootstrap 5 · GitHub Pages
 
 הסעיפים הבאים הם הצעות להמשך, לא יכולות שכבר יושמו.
 
-- עיצוב: חיתוך תמונות וריווח עקביים; סמל לשונית פשוט המבוסס על HandCrafts.
+- עיצוב: חיתוך תמונות וריווח עקביים.
 - הנדסה: אזור main, משאבי Bootstrap מקומיים ובדיקה אוטומטית של עוגני הדף.
 - יכולות: קטלוג JSON קטן עם סינון קטגוריות ופרטי מוצר; הגדרת יעד אמיתי ליצירת קשר בנפרד.
 
